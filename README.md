@@ -1,4 +1,6 @@
 # thm-siem-log-analysis
+https://tryhackme.com/p/noemieebdao23
+
 Hands-on Blue Team labs focusing on SOC workflows, multi-source SIEM log analysis, and incident triage across Windows, Linux, and Web application telemetry.
 
 # TryHackMe: SOC Operations & SIEM Log Analysis 🚀
